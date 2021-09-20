@@ -33,13 +33,30 @@ We often work on few products of our own as well. If you are looking to work wit
 - If you are on a call, please turn on video in both internal and external communication. It feels pretty weird talking to a computer. Seeing creates a human connection.
 - Make sure your profile accurately describes what you do on Slack, Github, LinkedIn, Angel.co including a profile picture. Prospective clients and team members often research about us on the internet.
 - Please update appropriate channel in Slack with Progress (What you worked upon), Plan (What you plan to work on), Problems (Any blocking issues) before you start your day at work.
-- Except emergencies, please plan your time off a week before and inform your immediate team, HR and apply them in company's HRMS system.
 
 ### Perks
- - Competitive salary, paid by 5th of every month.
- - 1 paid, 0.5 sick leave every month with a maximum of 6 unused paid leaves carried forward every year. All unused paid leaves will be encashed at the time of exit.
- - Comprehensive health coverage.
- - Macbooks, if you are working from one of our offices.
+
+Leaves: Paid, Sick, Maternity, Paternity and Emergency Leaves.
+ - 1 paid, 0.5 sick leave every month with a maximum of 6 unused paid leaves carried forward every year.
+ - All unused paid leaves will be encashed at the time of exit, not when you are working with us.
+ - Leaves will get accumulated every month on month. Not altogether for a year.
+ - Maternity Leave and Paternity Leaves can also be availed. Please talk to Sharan for more details on this.
+ - Emergency Leaves - Please talk to Sharan for more information.
+ 
+ Steps to avail Paid leaves: 2 simple steps!
+  - Inform your Product Team on Slack, 1 week before taking the leave.
+  - Apply your leaves in our HRMS and inform Sharan of the same.
+
+Steps to avail Sick leaves: 2 simple steps!
+ - Inform Product Team and Sharan on slack on the same day when taking Sick leave.
+ - Apply in HRMS when you return back to work.
+
+ - Competitive salary, paid by 5th of every month.No matter which date you join us at JTC ex: middle of the month or at the end, 
+   your salary will be calculated on a Pro-rata basis and deposited in your bank account by the 5th.
+ - Comprehensive health coverage. For 3 Lakhs (including Covid cover). 
+ - A one-time office set up(at home) reimbursement for any chair, table purchased upto Rs.6500/-
+ - Macbooks/Windows laptops, if you are working from one of our offices.
+ - Option to Upskill yourself.  
  - An all paid annual offsite for all of us to get together. We pay for your travel, lodging, accomodation, meals and any group activities.
  - Free beverages, if you are working from one of our offices.
 
